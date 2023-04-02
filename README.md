@@ -1,5 +1,5 @@
 # discord-clone
-1.This is a dicord clone basic functionalities.
-2.Login using google authentication.
-3. Add Channel and start chatting.
-4. To logout click on the sidebar's profile picture.
+This is a discord clone web app with basic discord functionalities.
+Login using your google account.
+Add channel or start chatting in any existing channel.
+To logout click on the profile picture.
